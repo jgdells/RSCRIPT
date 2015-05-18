@@ -1,4 +1,5 @@
 #Make exact data command
+## Slightly more precise than rnorm
 
 z.score<-function(x){(x-mean(x))/sd(x)}
 
