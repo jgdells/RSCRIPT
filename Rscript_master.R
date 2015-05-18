@@ -1,4 +1,4 @@
-R functions for Midterm (2.27.13)
+R functions 
 
 Power calculation for Random Effects ANOVA
 
